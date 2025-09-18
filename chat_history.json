@@ -1,0 +1,12 @@
+[
+  {
+    "role": "User",
+    "text": "hi",
+    "time": "21:42"
+  },
+  {
+    "role": "Assistant",
+    "text": "Hello! It's great to chat with you. I'm Compound-Beta, a conversational AI built by Groq. I'm running on their custom LPU hardware, which allows me to provide fast and efficient responses. I'm excited to talk with you and help with any questions or topics you'd like to discuss. How's your day going so far?",
+    "time": "21:42"
+  }
+]

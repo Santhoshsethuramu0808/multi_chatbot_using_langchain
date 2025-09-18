@@ -1,0 +1,42 @@
+[
+  {
+    "role": "User",
+    "text": "hi",
+    "time": "21:45"
+  },
+  {
+    "role": "Assistant",
+    "text": "Hello! It's great to chat with you. I'm Compound-Beta, a conversational AI built by Groq. I'm running on their custom LPU hardware, which allows me to provide fast and efficient responses. I'm excited to talk with you - how's your day going so far?",
+    "time": "21:45"
+  },
+  {
+    "role": "User",
+    "text": "i want previous chat history",
+    "time": "21:45"
+  },
+  {
+    "role": "Assistant",
+    "text": "\ud83d\udcdd Here\u2019s your previous chat history:\n\nUser [21:45]: hi\nAssistant [21:45]: Hello! It's great to chat with you. I'm Compound-Beta, a conversational AI built by Groq. I'm running on their custom LPU hardware, which allows me to provide fast and efficient responses. I'm excited to talk with you - how's your day going so far?\nUser [21:45]: i want previous chat history",
+    "time": "21:45"
+  },
+  {
+    "role": "User",
+    "text": "who is lewis hamilton",
+    "time": "21:45"
+  },
+  {
+    "role": "Assistant",
+    "text": "Lewis Hamilton is a British Formula One driver, widely regarded as one of the greatest drivers in the history of the sport. He was born on January 7, 1985, in Stevenage, England. Hamilton began karting at a young age and quickly rose through the junior ranks, winning several championships along the way.\n\nHe made his Formula One debut in 2007 with McLaren, where he won his first World Drivers' Championship in his second season. In 2013, he joined Mercedes-AMG Petronas Motorsport, where he has won seven World Drivers' Championships (2014, 2015, 2017, 2018, 2019, 2020, and 2022).\n\nThroughout his career, Hamilton has achieved numerous records and accolades, including the most Formula One wins, pole positions, and points scored. He's known for his exceptional driving skills, tire management, and ability to perform under pressure.\n\nOff the track, Hamilton is a prominent advocate for social justice, diversity, and environmental causes. He's been recognized for his philanthropic work, particularly in the area of education and youth empowerment.\n\nAs a huge fan of music and fashion, Hamilton has also explored other passions outside of racing. He's collaborated with artists, designers, and musicians on various projects, showcasing his creative side.\n\nWhat would you like to know more about Lewis Hamilton?",
+    "time": "21:45"
+  },
+  {
+    "role": "User",
+    "text": "i want chat history",
+    "time": "21:45"
+  },
+  {
+    "role": "Assistant",
+    "text": "\ud83d\udcdd Here\u2019s your previous chat history:\n\nUser [21:45]: hi\nAssistant [21:45]: Hello! It's great to chat with you. I'm Compound-Beta, a conversational AI built by Groq. I'm running on their custom LPU hardware, which allows me to provide fast and efficient responses. I'm excited to talk with you - how's your day going so far?\nUser [21:45]: hi\nAssistant [21:45]: Hello! It's great to chat with you. I'm Compound-Beta, a conversational AI built by Groq. I'm running on their custom LPU hardware, which allows me to provide fast and efficient responses. I'm excited to talk with you - how's your day going so far?\nUser [21:45]: i want previous chat history\nAssistant [21:45]: \ud83d\udcdd Here\u2019s your previous chat history: User [21:45]: hi Assistant [21:45]: Hello! It's great to chat with you. I'm Compound-Beta, a conversational AI built by Groq. I'm running on their custom LPU hardware, which allows me to provide fast and efficient responses. I'm excited to talk with you - how's your day going so far? User [21:45]: i want previous chat history\nUser [21:45]: who is lewis hamilton\nAssistant [21:45]: Lewis Hamilton is a British Formula One driver, widely regarded as one of the greatest drivers in the history of the sport. He was born on January7,1985, in Stevenage, England. Hamilton began karting at a young age and quickly rose through the junior ranks, winning several championships along the way. He made his Formula One debut in2007 with McLaren, where he won his first World Drivers' Championship in his second season. In2013, he joined Mercedes-AMG Petronas Motorsport, where he has won seven World Drivers' Championships (2014,2015,2017,2018,2019,2020, and2022). Throughout his career, Hamilton has achieved numerous records and accolades, including the most Formula One wins, pole positions, and points scored. He's known for his exceptional driving skills, tire management, and ability to perform under pressure. Off the track, Hamilton is a prominent advocate for social justice, diversity, and environmental causes. He's been recognized for his philanthropic work, particularly in the area of education and youth empowerment. As a huge fan of music and fashion, Hamilton has also explored other passions outside of racing. He's collaborated with artists, designers, and musicians on various projects, showcasing his creative side. What would you like to know more about Lewis Hamilton?\nUser [21:45]: who is lewis hamilton\nAssistant [21:45]: Lewis Hamilton is a British Formula One driver, widely regarded as one of the greatest drivers in the history of the sport. He was born on January7,1985, in Stevenage, England. Hamilton began karting at a young age and quickly rose through the junior ranks, winning several championships along the way. He made his Formula One debut in2007 with McLaren, where he won his first World Drivers' Championship in his second season. In2013, he joined Mercedes-AMG Petronas Motorsport, where he has won seven World Drivers' Championships (2014,2015,2017,2018,2019,2020, and2022). Throughout his career, Hamilton has achieved numerous records and accolades, including the most Formula One wins, pole positions, and points scored. He's known for his exceptional driving skills, tire management, and ability to perform under pressure. Off the track, Hamilton is a prominent advocate for social justice, diversity, and environmental causes. He's been recognized for his philanthropic work, particularly in the area of education and youth empowerment. As a huge fan of music and fashion, Hamilton has also explored other passions outside of racing. He's collaborated with artists, designers, and musicians on various projects, showcasing his creative side. What would you like to know more about Lewis Hamilton?",
+    "time": "21:45"
+  }
+]
